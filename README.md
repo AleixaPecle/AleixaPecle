@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 , Eu sou Aleixa Pecle.</h1><h3 align="center">Uma Analista de dados apaixonada por compartilhar conhecimento.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=aleixapecle&label=Profile%20views&color=0e75b6&style=flat" alt="aleixapecle" /> </p>
+<h1 align="center">Olá! 👋, Eu sou Aleixa Pecle.</h1><h3 align="center">Uma Analista de dados apaixonada por compartilhar conhecimento.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=aleixapecle&label=Profile%20views&color=0e75b6&style=flat" alt="aleixapecle" /> </p>
 
 - 📚 Atualmente estou estudando linguagem Python e suas bibliotecas.
 - 💬 Pergunte-me sobre SQL e Power BI.
